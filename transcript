@@ -1,0 +1,1011 @@
+# Reading pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:38:35 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(65): (vlog-2110) Illegal reference to net "cand1_valid_vote".
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(66): (vlog-2110) Illegal reference to net "cand2_valid_vote".
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(67): (vlog-2110) Illegal reference to net "cand3_valid_vote".
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(68): (vlog-2110) Illegal reference to net "cand4_valid_vote".
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 08:38:35 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:44:11 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(70): (vlog-2110) Illegal reference to net "cand1_valid_vote".
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(71): (vlog-2110) Illegal reference to net "cand2_valid_vote".
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(72): (vlog-2110) Illegal reference to net "cand3_valid_vote".
+# ** Error: ** while parsing file included at tb_EVM.v(1)
+# ** at EVM_design.v(73): (vlog-2110) Illegal reference to net "cand4_valid_vote".
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 08:44:11 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:53:26 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 08:53:26 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:54:05 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): near " clk=5b,rst=%b,mode=%b,button1=%b,button2=%b,butto": syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 08:54:05 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:54:26 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 08:54:26 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:55:34 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): near " clk=%b,rst=%b,mode=%b,button1=%b,button2=%b,butto": syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 08:55:34 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:56:11 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Vote_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	Vote_Logger
+# 	tb
+# End time: 08:56:11 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 08:56:12 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# ** Error: (vsim-3033) Instantiation of 'Voter_Logger' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut File: EVM_design.v Line: 100
+#         Searched libraries:
+#             D:/Gvim/Verilog/Projects/Voting Machine(EVM)/work
+# Loading work.mode_control
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 08:57:09 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 08:57:09 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 08:56:12 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+# ** Error: (vsim-3063) Port 'cand1_vote_valid' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand2_vote_valid' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand3_vote_valid' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand4_vote_valid' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'leds'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/mc File: EVM_design.v Line: 102
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 09:00:33 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 09:00:33 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 08:56:12 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+# ** Error: (vsim-3063) Port 'cand1_vote_valid' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand2_vote_valid' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand3_vote_valid' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand4_vote_valid' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'leds'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/mc File: EVM_design.v Line: 102
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 09:03:34 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 09:03:34 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 08:56:12 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+# ** Error: (vsim-3063) Port 'cand1_vote_valid' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand2_vote_valid' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand3_vote_valid' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand4_vote_valid' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'leds'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/mc File: EVM_design.v Line: 112
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 09:22:44 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 09:22:44 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 08:56:12 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+# ** Error: (vsim-3063) Port 'cand1_vote_valid' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand2_vote_valid' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand3_vote_valid' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# ** Error: (vsim-3063) Port 'cand4_vote_valid' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/dut/vl File: EVM_design.v Line: 100
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run.do PAUSED at line 3
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:00:28 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 10:00:28 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 08:56:12 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+# ** Note: $finish    : tb_EVM.v(40)
+#    Time: 395 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at tb_EVM.v line 40
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:02:29 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# ** Error: (vlog-13069) tb_EVM.v(43): near " clk=%b,rst=%b,mode=%b,button1=%b,button2=%b,butto": syntax error, unexpected STRING_LITERAL, expecting ')' or ','.
+# End time: 10:02:29 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: D:/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./run.do line 2
+# D:/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog tb_EVM.v"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:11:07 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 10:11:07 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:11:11 on Jul 08,2024, Elapsed time: 1:14:59
+# Errors: 21, Warnings: 0
+# vsim tb 
+# Start time: 10:11:11 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+#                    0 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  x
+#                    5 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   10 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   15 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   20 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   25 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   30 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   35 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   40 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   45 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   50 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   55 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   60 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   65 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   70 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   75 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   80 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   85 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   90 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   95 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  100 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  105 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  110 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  115 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  120 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  125 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  130 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  135 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  140 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  145 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  150 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  155 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  160 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  165 clk=1,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  170 clk=0,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  175 clk=1,rst=0,mode=1,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  180 clk=0,rst=0,mode=1,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  185 clk=1,rst=0,mode=1,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  190 clk=0,rst=0,mode=1,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  195 clk=1,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  200 clk=0,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  205 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  210 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  215 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  220 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  225 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  230 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  235 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  240 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  245 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  250 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  255 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  260 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  265 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  270 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  275 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  280 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  285 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  290 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  295 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  300 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  305 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  310 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  315 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  320 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  325 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  330 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  335 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  340 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  345 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  350 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  355 clk=1,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  360 clk=0,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  365 clk=1,rst=0,mode=1,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  370 clk=0,rst=0,mode=1,button1=0,button2=0,button3=0,button4=1,led=  0
+#                  375 clk=1,rst=0,mode=1,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  380 clk=0,rst=0,mode=1,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  385 clk=1,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                  390 clk=0,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+# ** Note: $finish    : tb_EVM.v(40)
+#    Time: 395 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at tb_EVM.v line 40
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:24:39 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 10:24:39 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:24:41 on Jul 08,2024, Elapsed time: 0:13:30
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 10:24:41 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+#                    0 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  x
+#                    5 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   10 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   15 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   20 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   25 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   30 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   35 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   40 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   45 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   50 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   55 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   60 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   65 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   70 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   75 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   80 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   85 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   90 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   95 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  100 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  105 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  110 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  115 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  120 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  125 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  130 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  135 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  140 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  145 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  150 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  155 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  160 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  165 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  170 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  175 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  180 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  185 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  190 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  195 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  200 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  205 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  210 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  215 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  220 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  225 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  230 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  235 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  240 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  245 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  250 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  255 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  260 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  265 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  270 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  275 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  280 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  285 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  290 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  295 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  300 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  305 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  310 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  315 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  320 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  325 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  330 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  335 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  340 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  345 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  350 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  355 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  360 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  365 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  370 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  375 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  380 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  385 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  390 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  395 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  400 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  405 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  410 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  415 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  420 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  425 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  430 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  435 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  440 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  445 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  450 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  455 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  460 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  465 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  470 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  475 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  480 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  485 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  490 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  495 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  500 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  505 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  510 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  515 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  520 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  525 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  530 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  535 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  540 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  545 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  550 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  555 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  560 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  565 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  570 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  575 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  580 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  585 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  590 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  595 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  600 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  605 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  610 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  615 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  620 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  625 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  630 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  635 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  640 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  645 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  650 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  655 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  660 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  665 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  670 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  675 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  680 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  685 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  690 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  695 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  700 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  705 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  710 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  715 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  720 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  725 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  730 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  735 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  740 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  745 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  750 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  755 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  760 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  765 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  770 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  775 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  780 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  785 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  790 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  795 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  800 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  805 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  810 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  815 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  820 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  825 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  830 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  835 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  840 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  845 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  850 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  855 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  860 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  865 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  870 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  875 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  880 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  885 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  890 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  895 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  900 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  905 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  910 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  915 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  920 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  925 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  930 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  935 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  940 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  945 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  950 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  955 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  960 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  965 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  970 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  975 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  980 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  985 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  990 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  995 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                 1000 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                 1005 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                 1010 clk=0,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1015 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1020 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1025 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1030 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1035 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1040 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1045 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1050 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1055 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1060 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1065 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1070 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1075 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1080 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1085 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1090 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1095 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1100 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1105 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1110 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1115 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1120 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1125 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1130 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1135 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1140 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1145 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1150 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1155 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1160 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1165 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1170 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1175 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1180 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1185 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1190 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1195 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1200 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1205 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1210 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1215 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1220 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1225 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1230 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1235 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1240 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1245 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1250 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+# ** Note: $finish    : tb_EVM.v(50)
+#    Time: 1255 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at tb_EVM.v line 50
+clear
+# invalid command name "clear"
+clear
+# invalid command name "clear"
+do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 10:25:21 on Jul 08,2024
+# vlog -reportprogress 300 tb_EVM.v 
+# -- Compiling module button_control
+# -- Compiling module mode_control
+# -- Compiling module Voter_Logger
+# -- Compiling module voting_machine
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# End time: 10:25:21 on Jul 08,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 10:25:24 on Jul 08,2024, Elapsed time: 0:00:43
+# Errors: 0, Warnings: 0
+# vsim tb 
+# Start time: 10:25:24 on Jul 08,2024
+# Loading work.tb
+# Loading work.voting_machine
+# Loading work.button_control
+# Loading work.Voter_Logger
+# Loading work.mode_control
+#                    0 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  x
+#                    5 clk=1,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   10 clk=0,rst=1,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   15 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   20 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   25 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   30 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   35 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   40 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   45 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   50 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   55 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   60 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   65 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   70 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   75 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   80 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   85 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   90 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                   95 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  100 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  105 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  110 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  115 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  120 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  125 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  130 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  135 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  140 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  145 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  150 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  155 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  160 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  165 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  170 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  175 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  180 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  185 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  190 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  195 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  200 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  205 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  210 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  215 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  220 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  225 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  230 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  235 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  240 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=  0
+#                  245 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  250 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  255 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  260 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  265 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  270 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  275 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  280 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  285 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  290 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  295 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  300 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  305 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  310 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  315 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  320 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  325 clk=1,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  330 clk=0,rst=0,mode=0,button1=1,button2=0,button3=0,button4=0,led=255
+#                  335 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  340 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  345 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  350 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  355 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=  0
+#                  360 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  365 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  370 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  375 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  380 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  385 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  390 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  395 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  400 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  405 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  410 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  415 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  420 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  425 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  430 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  435 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  440 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  445 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  450 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  455 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  460 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  465 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  470 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  475 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  480 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  485 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  490 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  495 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  500 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  505 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  510 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  515 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  520 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  525 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  530 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  535 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  540 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  545 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  550 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  555 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  560 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  565 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  570 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  575 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  580 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  585 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  590 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  595 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  600 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  605 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  610 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  615 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  620 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  625 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  630 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  635 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  640 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  645 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  650 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  655 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  660 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  665 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  670 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  675 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  680 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  685 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  690 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  695 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  700 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  705 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  710 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  715 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  720 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  725 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  730 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  735 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  740 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=  0
+#                  745 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  750 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  755 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  760 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  765 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  770 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  775 clk=1,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  780 clk=0,rst=0,mode=0,button1=0,button2=1,button3=1,button4=0,led=255
+#                  785 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  790 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  795 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  800 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  805 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                  810 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  815 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  820 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  825 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  830 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  835 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  840 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  845 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  850 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  855 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  860 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  865 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  870 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  875 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  880 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  885 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  890 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                  895 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  900 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  905 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  910 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  915 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  920 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  925 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  930 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  935 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  940 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  945 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  950 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  955 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  960 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  965 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  970 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  975 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  980 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  985 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  990 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=255
+#                  995 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                 1000 clk=0,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                 1005 clk=1,rst=0,mode=0,button1=0,button2=1,button3=0,button4=0,led=  0
+#                 1010 clk=0,rst=0,mode=1,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1015 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1020 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1025 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1030 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1035 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1040 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1045 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1050 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1055 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1060 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1065 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1070 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1075 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1080 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1085 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1090 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1095 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1100 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1105 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1110 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1115 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1120 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1125 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1130 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1135 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1140 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1145 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1150 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1155 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1160 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1165 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1170 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1175 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1180 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1185 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1190 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=  0
+#                 1195 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1200 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1205 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1210 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1215 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1220 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1225 clk=1,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1230 clk=0,rst=0,mode=0,button1=0,button2=0,button3=1,button4=0,led=255
+#                 1235 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1240 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1245 clk=1,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+#                 1250 clk=0,rst=0,mode=0,button1=0,button2=0,button3=0,button4=0,led=255
+# ** Note: $finish    : tb_EVM.v(50)
+#    Time: 1255 ns  Iteration: 0  Instance: /tb
+# 1
+# Break in Module tb at tb_EVM.v line 50
+# End time: 10:27:58 on Jul 08,2024, Elapsed time: 0:02:34
+# Errors: 0, Warnings: 0
